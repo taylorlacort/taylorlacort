@@ -97,38 +97,13 @@ Tenho experiência com desenvolvimento de interfaces, aplicações mobile híbri
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=taylorlacort&show_icons=true&theme=dark&hide_border=true" 
-  alt="Taylor GitHub Stats"
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorlacort&layout=compact&theme=dark&hide_border=true" 
-  alt="Taylor Top Languages"
-/>
-
-<br/><br/>
-
-<img 
   src="https://streak-stats.demolab.com?user=taylorlacort&theme=dark&hide_border=true" 
   alt="Taylor GitHub Streak"
 />
 
 </div>
 
----
 
-## 👀 Profile Views
-
-<div align="center">
-
-<img 
-  src="https://komarev.com/ghpvc/?username=taylorlacort&color=blue&style=flat-square&label=Profile+Views" 
-  alt="Profile Views"
-/>
-
-</div>
 
 ---
 
