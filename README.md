@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Taylor Lacort Rocha
+# Taylor Lacort Rocha
 
 Desenvolvedor Front-end/Mobile com foco em Angular, Ionic, TypeScript, Node.js e aplicações Android com Capacitor.
 
