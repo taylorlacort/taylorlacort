@@ -96,15 +96,34 @@ Tenho experiência com desenvolvimento de interfaces, aplicações mobile híbri
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=taylorlacort&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=taylorlacort&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+/>
 
 <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=taylorlacort&theme=dark&hide_border=true)
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorlacort&layout=compact&theme=dark&hide_border=true"
+/>
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorlacort&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img 
+  height="180em" 
+  src="https://streak-stats.demolab.com?user=taylorlacort&theme=dark&hide_border=true"
+/>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=taylorlacort&color=blue&style=flat-square&label=Profile+Views" />
 
 </div>
 
@@ -120,10 +139,4 @@ Tenho experiência com desenvolvimento de interfaces, aplicações mobile híbri
 
 ---
 
-## 👀 Profile Views
 
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=taylorlacort&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
