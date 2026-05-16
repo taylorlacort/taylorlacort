@@ -119,15 +119,7 @@ Tenho experiência com desenvolvimento de interfaces, aplicações mobile híbri
 
 ---
 
-## 👀 Profile Views
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=taylorlacort&color=blue&style=flat-square&label=Profile+Views" />
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -139,4 +131,12 @@ Tenho experiência com desenvolvimento de interfaces, aplicações mobile híbri
 
 ---
 
+## 👀 Profile Views
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=taylorlacort&color=blue&style=flat-square&label=Profile+Views" />
+
+</div>
+
+---
