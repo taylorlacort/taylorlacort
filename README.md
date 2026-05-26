@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou Taylor Lacort Rocha
-
 ## 💫 About Me:
 
 Desenvolvedor de Software com foco em aplicações **Web, Mobile e Desktop**, atuando principalmente com **Angular, Ionic, TypeScript, Node.js, Android, Capacitor e integrações em tempo real**.
