@@ -1,8 +1,8 @@
 ## 💫 About Me:
 
-Desenvolvedor de Software com foco em aplicações **Web, Mobile e Desktop**, atuando principalmente com **Angular, Ionic, TypeScript, Node.js, Android, Capacitor e integrações em tempo real**.
+Software Developer focused on **Web, Mobile, and Desktop** applications, working primarily with **Angular, Ionic, TypeScript, Node.js, Android, Capacitor, and real-time integrations**.
 
-Tenho experiência com desenvolvimento de interfaces, aplicações mobile híbridas, comunicação via WebSocket, testes unitários/E2E, integração com dispositivos Android, impressão térmica, APIs, versionamento Git e ambientes Linux.
+I have experience in interface development, hybrid mobile applications, WebSocket communication, unit and E2E testing, Android device integration, thermal printing, APIs, Git version control, and Linux environments.
 
 ---
 
